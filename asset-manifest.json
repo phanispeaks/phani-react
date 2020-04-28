@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/phani-react/static/css/main.c6be87ae.chunk.css",
+    "main.js": "/phani-react/static/js/main.e08e4461.chunk.js",
+    "main.js.map": "/phani-react/static/js/main.e08e4461.chunk.js.map",
+    "runtime-main.js": "/phani-react/static/js/runtime-main.d59749e5.js",
+    "runtime-main.js.map": "/phani-react/static/js/runtime-main.d59749e5.js.map",
+    "static/js/2.789b5561.chunk.js": "/phani-react/static/js/2.789b5561.chunk.js",
+    "static/js/2.789b5561.chunk.js.map": "/phani-react/static/js/2.789b5561.chunk.js.map",
+    "index.html": "/phani-react/index.html",
+    "precache-manifest.3e575d250def233af300f2de23563305.js": "/phani-react/precache-manifest.3e575d250def233af300f2de23563305.js",
+    "service-worker.js": "/phani-react/service-worker.js",
+    "static/css/main.c6be87ae.chunk.css.map": "/phani-react/static/css/main.c6be87ae.chunk.css.map",
+    "static/js/2.789b5561.chunk.js.LICENSE.txt": "/phani-react/static/js/2.789b5561.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d59749e5.js",
+    "static/js/2.789b5561.chunk.js",
+    "static/css/main.c6be87ae.chunk.css",
+    "static/js/main.e08e4461.chunk.js"
+  ]
+}
