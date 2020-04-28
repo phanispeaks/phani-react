@@ -1,0 +1,46 @@
+{
+    "profiles":[
+        {
+            "basicInformation": {
+                "name" : "Bonthu Brahma Phaneendra Babu",
+                "role" : "Multi skill Trainer",
+                "email" : "phaneendra_b@apssdc.in",
+                "mobile": "+91 9003216950"
+            },
+            "education":[
+                {
+                    "degree":"Graduation",
+                    "institution": " B.Tech from Chebrolu Engineering College 2014-2018"
+                },
+               
+                {
+                    "degree":"Intermediate",
+                    "institution":" MPC from Sri Prathiba Junior Collegee in 2012 - 2014"
+                },
+                {
+                    "degree":"SSC",
+                    "institution": "School Study's SSC from Viswabharathi Concept School in 2011-2012"
+                }
+            ],
+            "skill":[
+                {
+                    "t":"Web Technologies",
+                    "l":"HTML5,CSS,Bootstrap"
+                },
+                {
+                    "t":"Programming Languages",
+                    "l":"C,Java"
+                },
+                {
+                    "t":"Operating Systems",
+                    "l":"windows"
+                },
+                {
+                    "t":"Goot at",
+                    "l":"Machine Learning,Unity3d"
+                }
+            ]
+        }
+        
+    ]
+}
